@@ -1,0 +1,33 @@
+body{
+    padding: 10%;
+    color: #ffffff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+    background: #1F2937;
+}
+
+.rectangle-105{
+    height: 30vh;
+    flex-shrink: 0;
+
+
+    background: #3A69D2;
+}
+
+.heading{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: ;
+
+
+}
+
+.supporting-text{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1rem;
+}
